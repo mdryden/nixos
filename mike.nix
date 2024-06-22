@@ -4,6 +4,7 @@
   environment.systemPackages = with pkgs; [
     wget
 
+    pkgs.azure-cli
     pkgs.docker_26
     pkgs.dotnetCorePackages.sdk_8_0_2xx
     pkgs.fira-code
