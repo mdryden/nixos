@@ -17,5 +17,6 @@
     pkgs.starship
     pkgs.thefuck
     pkgs.vscode
+    pkgs.wineWowPackages.fonts
   ];
 }
