@@ -7,6 +7,7 @@
     pkgs.docker_26
     pkgs.dotnetCorePackages.sdk_8_0_2xx
     pkgs.flutter319
+    pkgs.fnm
     pkgs.git
     pkgs.google-chrome
     pkgs.python312
