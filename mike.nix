@@ -8,9 +8,9 @@
     pkgs.dotnetCorePackages.sdk_8_0_2xx
     pkgs.fira-code
     pkgs.flutter319
-    pkgs.fnm
     pkgs.git
     pkgs.google-chrome
+    pkgs.nodejs_20
     pkgs.python312
     pkgs.slack
     pkgs.starship
