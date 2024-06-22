@@ -10,7 +10,8 @@
     pkgs.git
     pkgs.google-chrome
     pkgs.python312
-    pkgs.slack    
+    pkgs.slack
+    pkgs.starship
     pkgs.vscode
   ];
 }
