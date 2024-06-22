@@ -20,4 +20,11 @@
     pkgs.vscode
     pkgs.wineWowPackages.fonts
   ];
+
+
+  virtualisation.docker.enable = true;
+  virtualisation.docker.rootless = {
+    enable = true;
+    setSocketVariable = true;
+  };
 }
