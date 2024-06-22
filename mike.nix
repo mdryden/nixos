@@ -9,7 +9,6 @@
     pkgs.flutter319
     pkgs.git
     pkgs.google-chrome
-    pkgs.libnotify
     pkgs.python312
     pkgs.slack
     pkgs.starship
