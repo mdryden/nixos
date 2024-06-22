@@ -1,0 +1,16 @@
+{ config, lib, pkgs, modulesPath, ... }:
+
+{
+  environment.systemPackages = with pkgs; [
+    wget
+
+    pkgs.docker_26
+    pkgs.dotnetCorePackages.sdk_8_0_2xx
+    pkgs.flutter319
+    pkgs.git
+    pkgs.google-chrome
+    pkgs.python312
+    pkgs.slack    
+    pkgs.vscode
+  ];
+}
