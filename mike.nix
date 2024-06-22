@@ -12,6 +12,7 @@
     pkgs.python312
     pkgs.slack
     pkgs.starship
+    pkgs.thefuck
     pkgs.vscode
   ];
 }
