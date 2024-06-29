@@ -6,6 +6,7 @@
 
     pkgs.android-studio
     pkgs.azure-cli
+    pkgs.corefonts
     pkgs.docker_26
     pkgs.dotnetCorePackages.sdk_8_0_2xx
     pkgs.fira-code
@@ -17,6 +18,7 @@
     pkgs.slack
     pkgs.starship
     pkgs.thefuck
+    pkgs.vistafonts
     pkgs.vscode
     pkgs.wineWowPackages.fonts
   ];
