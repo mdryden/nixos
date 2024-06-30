@@ -10,6 +10,7 @@
     pkgs.docker_26
     pkgs.dotnetCorePackages.sdk_8_0_2xx
     pkgs.fira-code
+    pkgs.firebase-tools
     pkgs.flutter319
     pkgs.git
     pkgs.go
