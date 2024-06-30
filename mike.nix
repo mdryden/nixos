@@ -12,6 +12,7 @@
     pkgs.fira-code
     pkgs.flutter319
     pkgs.git
+    pkgs.go
     pkgs.google-chrome
     pkgs.nodejs_20
     pkgs.python312
