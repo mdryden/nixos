@@ -15,6 +15,7 @@
     pkgs.go
     pkgs.google-chrome
     pkgs.nodejs_20
+    pkgs.postman
     pkgs.python312
     pkgs.slack
     pkgs.starship
