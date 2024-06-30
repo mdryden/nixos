@@ -22,6 +22,7 @@
     pkgs.vistafonts
     pkgs.vscode
     pkgs.wineWowPackages.fonts
+    pkgs.wgo
   ];
 
 
