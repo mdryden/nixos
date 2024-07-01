@@ -6,13 +6,13 @@
 
     pkgs.android-studio
     pkgs.azure-cli
+    pkgs.binutils
     pkgs.corefonts
     pkgs.docker_26
     pkgs.dotnetCorePackages.sdk_8_0_2xx
     pkgs.fira-code
     pkgs.firebase-tools
     pkgs.flutter319
-    pkgs.gcc-unwrapped
     pkgs.git
     pkgs.go
     pkgs.google-chrome
