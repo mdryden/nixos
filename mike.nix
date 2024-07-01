@@ -15,6 +15,7 @@
     pkgs.git
     pkgs.go
     pkgs.google-chrome
+    pkgs.libstdcxx5
     pkgs.nodejs_20
     pkgs.postman
     pkgs.python312
