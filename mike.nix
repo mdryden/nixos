@@ -18,6 +18,7 @@
     pkgs.nodejs_20
     pkgs.postman
     pkgs.python312
+    pkgs.python312Packages.pip
     pkgs.slack
     pkgs.starship
     pkgs.thefuck
