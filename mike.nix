@@ -13,6 +13,7 @@
     pkgs.fira-code
     pkgs.firebase-tools
     pkgs.flutter319
+    pkgs.gcc-unwrapped
     pkgs.git
     pkgs.go
     pkgs.google-chrome
